@@ -1,0 +1,4 @@
+packages/
+.vs/
+SamuraiApp.Data/obj/
+SamuraiApp.Domain/obj/
