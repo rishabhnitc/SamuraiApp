@@ -3,3 +3,11 @@ packages/
 SamuraiApp.Data/obj/
 SamuraiApp.Domain/obj/
 SamuraiApp.Data/bin/
+SamuraiApp/SamuraiApp.Data/bin/
+SamuraiApp/SamuraiApp.Data/obj/
+SamuraiApp/SamuraiApp.Domain/obj/
+SamuraiCoreApp/Domain.Data/bin/
+SamuraiCoreApp/Domain.Data/
+SamuraiCoreApp/SamuraiApp.Domain/obj/
+SamuraiCoreApp/SamuraiCoreApp/bin/
+SamuraiCoreApp/SamuraiCoreApp/obj/
