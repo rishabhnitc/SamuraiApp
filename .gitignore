@@ -2,3 +2,4 @@ packages/
 .vs/
 SamuraiApp.Data/obj/
 SamuraiApp.Domain/obj/
+SamuraiApp.Data/bin/
